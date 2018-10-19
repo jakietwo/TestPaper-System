@@ -1,0 +1,152 @@
+{
+  "data": [
+    {
+      "id": "0001",
+      "asktitle": "安全教育的种类有哪些?",
+      "answers": [
+        {
+          "aid": "00001",
+          "answername": "A",
+          "answercontent": "转岗教育"
+        },
+        {
+          "aid": "00002",
+          "answername": "B",
+          "answercontent": "三级安全教育"
+        },
+        {
+          "aid": "00003",
+          "answername": "C",
+          "answercontent": "特征作业人员安全教育"
+        },
+        {
+          "aid": "00004",
+          "answername": "D",
+          "answercontent": "经常性安全教育"
+        }
+      ],
+      "rightaid": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ]
+    },
+    {
+      "id":"0002",
+      "asktitle":"你喜欢哪些颜色",
+      "answers":[
+        {
+          "aid":"00021",
+          "answername": "A",
+          "answercontent":"紫色/粉色系"
+        },
+        {
+          "aid":"00022",
+          "answername":"B",
+          "answercontent":"红色/黄色系"
+        },
+        {
+          "aid":"00023",
+          "answername" :"C",
+          "answercontent":"绿色/青色系"
+        },
+        {
+          "aid":"00024",
+          "answername":"D",
+          "answercontent": "头顶绿"
+        }
+      ],
+      "rightaid":[
+        "A","D"
+      ]
+    },
+    {
+      "id":"0003",
+      "asktitle": "挑选朋友的时候你会",
+      "answers":[
+        {
+          "aid":"00031",
+          "answername":"A",
+          "answercontent": "很认真的挑选同性的朋友"
+        },
+        {
+          "aid":"00032",
+          "answername":"B",
+          "answercontent":"很认真的挑选异性的朋友"
+        },
+        {
+          "aid":"00033",
+          "answername":"C",
+          "answercontent": "并不是很仔细"
+        },
+        {
+          "aid":"00034",
+          "answername":"D",
+          "answercontent": "只想孤独一个人"
+        }
+      ],
+      "rightaid": [
+        "A","D"
+      ]
+    },
+    {
+      "id":"0004",
+      "asktitle": "安全生产的'三违'是哪些？",
+      "answers":[
+        {
+          "aid":"00041",
+          "answername":"A",
+          "answercontent": "违章指挥"
+        },
+        {
+          "aid":"00042",
+          "answername":"B",
+          "answercontent":"违章操作"
+        },
+        {
+          "aid":"00043",
+          "answername":"C",
+          "answercontent": "违反劳动纪律"
+        },
+        {
+          "aid":"00044",
+          "answername":"D",
+          "answercontent": "违反生活秩序"
+        }
+      ],
+      "rightaid": [
+        "A","B","C"
+      ]
+    },
+    {
+      "id":"0005",
+      "asktitle": "在你工作繁忙任务繁忙时，却有同事生病住院了，你会？",
+      "answers":[
+        {
+          "aid":"00051",
+          "answername":"A",
+          "answercontent": "有空就去探望，没空就不去"
+        },
+        {
+          "aid":"00052",
+          "answername":"B",
+          "answercontent":"只探望和你关系密切的同事"
+        },
+        {
+          "aid":"00053",
+          "answername":"C",
+          "answercontent": "尽量挤出时间多次探望"
+        },
+        {
+          "aid":"00054",
+          "answername":"D",
+          "answercontent": "不熟，跟我没关系，不去"
+        }
+      ],
+      "rightaid": [
+        "A","B"
+      ]
+    }
+  ]
+}
